@@ -1,0 +1,13 @@
+[user]
+	name = Tylah Kapa
+	email = 17246482+tkapa@users.noreply.github.com
+[alias]
+	cln = clone
+	swm = switch main
+	sw = switch
+	nb = checkout -b
+	rao = remote add origin
+[credential]
+	helper = /usr/local/share/gcm-core/git-credential-manager
+[credential "https://dev.azure.com"]
+	useHttpPath = true
